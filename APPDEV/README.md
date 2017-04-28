@@ -4,8 +4,7 @@
 		Acoustic Sensor using RPi3
 -------------------------------------------
 #Written by JIANG YIFENG
-#https://github.com/JIANGYIFENGPI/APPDEV
-
+#https://github.com/JIANGYIFENGPI/APPDEV/tree/master/APPDEV
 
 Table of Content
 1.Configuration Instructions
